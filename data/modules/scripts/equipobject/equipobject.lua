@@ -2,6 +2,7 @@ EquipObject = {}
 EquipObject.Slots = {
 	[48] = CONST_SLOT_LEFT,
 	[49] = CONST_SLOT_HEAD,
+	[50] = CONST_SLOT_NECKLACE,
 	[52] = CONST_SLOT_BACKPACK,
 	[56] = CONST_SLOT_ARMOR,
 	[112] = CONST_SLOT_LEGS,
